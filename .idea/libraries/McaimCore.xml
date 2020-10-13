@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="McaimCore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../1.16 server run/plugins/McaimCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

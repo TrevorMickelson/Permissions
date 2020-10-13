@@ -1,0 +1,12 @@
+name: Permissions
+author: CodePunisher
+version: 1.0
+main: com.codepunisher.permissions.PermMain
+depend:
+  - McAimCore
+  - NametagEdit
+api-version: 1.16
+
+commands:
+  perm:
+    description: permission command

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Permissions:jar">
+    <output-path>$PROJECT_DIR$/../1.16 server run/plugins</output-path>
+    <root id="archive" name="Permissions.jar">
+      <element id="module-output" name="Permissions" />
+    </root>
+  </artifact>
+</component>
